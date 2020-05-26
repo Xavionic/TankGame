@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27047541-0c5d-42c6-941d-6be4e8e2327b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/bulletDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/bulletLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/bulletRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/bulletUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/leftDirHead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/naziLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankDown3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankLeft3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankRight3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/resources/tankUp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/tank/Enemy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/tank/Map2$TAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/tank/Map2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/tank/Peta$TAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/tank/Peta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tank Game/com/tank/Tank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/bulletDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/bulletLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/bulletRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/bulletUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/leftDirHead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/naziLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankDown3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankLeft3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankRight3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/resources/tankUp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tank/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tank/Map2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tank/Peta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tank/Tank.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cSPwKRK1acs4tV0rXdla2Rz9zV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tank.Tank" />
+      <module name="Tank Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27047541-0c5d-42c6-941d-6be4e8e2327b" name="Default Changelist" comment="" />
+      <created>1590519258683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590519258683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590520040464">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="430" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1590520040464" />
+    <state x="463" y="86" key="FileChooserDialogImpl" timestamp="1590519348105">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="86" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1590519348105" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1590519706235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590519706235" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1590519706235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590519706235" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1590519706227">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590519706227" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1590519706235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590519706235" />
+    <state x="348" y="68" key="NewModule_or_Project.wizard" timestamp="1590519353864">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="348" y="68" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1590519353864" />
+  </component>
+</project>
